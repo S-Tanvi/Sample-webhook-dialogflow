@@ -1,0 +1,99 @@
+
+20191220163220215|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|I can surely help you with that. But first I need to check your identity##
+20191220163255660|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220163516986|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220163545741|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220165126673|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220165142555|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220165345205|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220165401310|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220165514258|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|I can surely help you with that. But first I need to check your identity##
+20191220165543237|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##
+20191220170208823|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220170225310|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##
+20191220170346935|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220170403165|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##
+20191220172555714|51905a0b-e3e8-e861-679f-e8934859b9ed|021.UserSelectsCardInformation|Card Information|0|updateCardServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|I can surely help you with that. But first I need to check your identity##
+20191220172828679|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220172936145|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|I can surely help you with that. But first I need to check your identity##
+20191220173011393|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##
+20191220173300432|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220173319387|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|__system_counters__,awaiting_mobile_recharge_amount_confirmation,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##
+20191220173504343|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220173519096|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##
+20191220174015745|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220174018601|51905a0b-e3e8-e861-679f-e8934859b9ed|060.UserSelectsAccountBalance|Account Balance|0|getBankAccountBalance|success|na|awaiting_account_info_type,__system_counters__,|awaiting_account_number,session_vars,|Please type serial number of account number you wish to see information of. For example to see first account's information type 1 
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220174022487|51905a0b-e3e8-e861-679f-e8934859b9ed|064.UserSelectsAccountNumber|hi|1|getBalanceAndLast5TxnByAccountNumber|success|na|awaiting_account_number,__system_counters__,|awaiting_account_number,session_vars,|Sorry, account number is not matching. Please select or enter last four digits of account number
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220174027507|51905a0b-e3e8-e861-679f-e8934859b9ed|064.UserSelectsAccountNumber|hi|2|getBalanceAndLast5TxnByAccountNumber|success|na|awaiting_account_number,__system_counters__,|awaiting_account_number,session_vars,|Sorry, account number is not matching. Please select or enter last four digits of account number
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3293
+5. 1041****3294
+6. 1041****3295##
+20191220174040287|51905a0b-e3e8-e861-679f-e8934859b9ed|020.UserSelectsAccountInformation|Account Information|0|updateAccountServiceType|success|na|awaiting_banking_choice,__system_counters__,|session_vars,|#Okay! What information may I help you with?#Account Balance,Last 5 Transactions,Mobile Recharge
+20191220174055331|51905a0b-e3e8-e861-679f-e8934859b9ed|151.UserConfirmsMobileRechargeAmount|Yes|0|mobileRecharge|success|na|awaiting_mobile_recharge_amount_confirmation,__system_counters__,|awaiting_account_number_for_mobile_recharge,session_vars,|Please type in the serial number of the account number you wish to pay the mobile recharge bill from. For example to pay the bill from 1st account, type 1.
+1. 1041****3541
+2. 1041****3291
+3. 1041****3292
+4. 1041****3294##

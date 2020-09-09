@@ -1,0 +1,4 @@
+
+20191209112013604|747de97a-f50f-a3e7-732a-e5a7241f0d5a|007.MainMenuChoice_Fallback|1234|1|increaseNoOfTries|success||session_vars,|##
+20191209112023826|747de97a-f50f-a3e7-732a-e5a7241f0d5a|007.MainMenuChoice_Fallback|1234|2|increaseNoOfTries|success||session_vars,|##
+20191209123508030|747de97a-f50f-a3e7-732a-e5a7241f0d5a|064.UserSelectsAccountNumber|1041****3541|0|getBalanceAndLast5TxnByAccountNumber|success|awaiting_account_number,|session_vars,|Your Account Number: 1041****3541, Current Balance: ৳ 86.36, Available Balance: ৳ 86.36, Account Currency: BDT#May I help you with anything else?#Yes,No

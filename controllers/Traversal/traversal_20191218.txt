@@ -1,0 +1,7 @@
+
+20191218172921086|51905a0b-e3e8-e861-679f-e8934859b9ed|064.UserSelectsAccountNumber|1|0|getBalanceAndLast5TxnByAccountNumber|success|awaiting_account_number,__system_counters__,|session_vars,|Your Account Number: 1011****6979, Current Balance: ৳ 0, Available Balance: ৳ 0, Account Currency: BDT#May I help you with anything else?#Yes,No
+20191218173501361|51905a0b-e3e8-e861-679f-e8934859b9ed|024.UserSelectsBankingInformation_Fallback|01783400500|1|increaseNoOfTries|success||session_vars,|##
+20191218173526794|51905a0b-e3e8-e861-679f-e8934859b9ed|060.UserSelectsAccountBalance|Account Balance|0|getBankAccountBalance|success|awaiting_account_info_type,__system_counters__,|awaiting_account_number,session_vars,|Please type serial number of account number you wish to see information of. For example to see first account's information type 1 
+1. 1011****6979
+2. 1011****9645##
+20191218173532044|51905a0b-e3e8-e861-679f-e8934859b9ed|064.UserSelectsAccountNumber|1|0|getBalanceAndLast5TxnByAccountNumber|success|awaiting_account_number,__system_counters__,|session_vars,|Your Account Number: 1011****6979, Current Balance: ৳ 0, Available Balance: ৳ 0, Account Currency: BDT#May I help you with anything else?#Yes,No
